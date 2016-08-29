@@ -1,0 +1,14 @@
+{
+  "name": "logmein",
+  "version": "1.0.0",
+  "description": "express application that uses passportjs to log people into a mysql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flavio Baldoni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
